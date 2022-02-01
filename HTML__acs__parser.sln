@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "HTML (acs) parser", "HTML (acs) parser\HTML (acs) parser.pyproj", "{199EBDD8-E889-4E91-9B95-915E8539B0FE}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "HTML__acs__parser", "HTML__acs__parser\HTML__acs__parser.pyproj", "{199EBDD8-E889-4E91-9B95-915E8539B0FE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
